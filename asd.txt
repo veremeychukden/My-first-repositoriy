@@ -2,3 +2,4 @@ qwerty
 asd
 dopusane
 tmg
+ya napisal etot file v vetka dev
