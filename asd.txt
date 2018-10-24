@@ -1,1 +1,8 @@
+HEAD
 -VADIM
+qwerty
+asd
+dopusane
+tmg
+ya napisal etot file v vetka dev
+DEV
