@@ -1,1 +1,7 @@
 asd
+switch(a)
+{
+case 1: cout << num + num1 << endl;
+break;
+
+}
