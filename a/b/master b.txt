@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 asd
 switch(a)
 {
@@ -10,3 +11,37 @@ break;
 case 4: cout << num / num1 << endl;
 
 }
+=======
+first
+#include <iostrea>
+using namespace std;
+int main()
+{
+int a;
+int num, num1;
+cout << "Choose" << endl;
+cout << "1 - pluse" << endl;
+cout << "2 - minus" << endl;
+cout << "3 - *" << endl;
+cout << "4 - /" << endl;
+cin >> a;
+cout << "Enter nums" << endl;
+cin >> num >> num1;
+switch(a)
+{
+
+
+}
+deleted
+
+asd
+asd
+asd
+
+
+
+
+
+system("pause");
+}
+second fix
