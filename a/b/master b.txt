@@ -3,5 +3,10 @@ switch(a)
 {
 case 1: cout << num + num1 << endl;
 break;
+case 2: cout << num - num1 << endl;
+break;
+case 3: cout << num * num1 << endl;
+break;
+case 4: cout << num / num1 << endl;
 
 }
